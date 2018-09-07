@@ -1,0 +1,93 @@
+string,en,fr,de,es,pt,ru
+app_title,Parent Account,Compte parental,Elternkonto,Cuenta del Padre,Conta dos Pais,
+btn_submit,Submit,Envoyer,Abschicken,Enviar,Enviar,
+btn_history_discipline,Discipline History,Historique des sanctions,Strafverlauf,Historial disciplinario,Histórico de disciplina,
+btn_history_login,Login History,Historique de connexion,Anmeldungsverlauf,Historial de inicio de sesión,Histórico de sessão,
+btn_history_billing,Billing History,Historique de facturation,Rechnungsverlauf,Historial de facturación,Histórico de cobrança,
+btn_setting_password,Reset,Réinitialiser,Zurücksetzen,Reiniciar,Redefinir,
+btn_change_link,Change,Changer,Ändern,Cambiar,Alterar,
+btn_change_close,Close,Fermer,Schließen,Cerrar,Fechar,
+player_selector_title,Player Accounts,Comptes joueur,Spielerkonten,Cuentas de jugadores,Contas de jogador,
+player_selector_modal_title,Select a Player Account,Choisissez un compte joueur,Spieler-Konto wählen,Seleccione una cuenta de jugador,Selecione uma conta de jogador,
+tab_player_settings,Player Settings,Paramètres du joueur,Spieler-Einstellungen,Configuración de jugador,Configurações do jogador,
+tab_web_settings,AJ Settings,Paramètres d'AJ,AJ-Einstellungen,Configuración de AJ,Configurações do AJ,
+tab_mobile_settings,PW Settings,Paramètres de MDP,PW-Einstellungen,Configuración de PW,Configurações de senha,
+setting_password_label,Player Password,Mot de passe du joueur,Spieler-Passwort,Contraseña de jugador,Senha do jogador,
+setting_membership_label,Membership,Abonnement,Mitgliedschaft,Membresía,Assinatura,
+setting_chat_label,Chat,Tchat,Chat,Chat,Bate-papo,
+setting_chat_safe,Safe Chat - Plus,Tchat sécurisé - Plus,Sicherer Chat - Plus,Chat seguro - Plus,Bate-papo seguro - Plus,
+setting_chat_restricted,Safe Chat,Tchat sécurisé,Sicherer Chat,Chat seguro,Bate-papo seguro,
+setting_chat_bubble,Bubble Chat,Tchat à bulles,Blasen-Chat,Chat con burbujas,Bate-papo de balões,
+setting_language_label,Preferred Language,Langue préférée,Bevorzugte Sprache,Idioma de preferencia,Idioma preferencial,
+setting_account_enabled_label,Account Enabled,Compte activé,Konto aktiviert,Cuenta habilitada,Conta habilitada,
+setting_gifting_label,Gifting,Envoi de cadeaux,Schenken,Regalar,Envio de presentes,
+setting_trading_label,Trading,Échange,Handeln,Intercambiar,Trocar,
+setting_jammer_wall_label,Jammer Wall,Mur Jam,AJ-Spieler-Wand,Muro Jammer,Mural Jammer,
+modal_password_reset_title,Password Reset,Réinitialiser le mot de passe,Passwort zurücksetzen,Restablecer contraseña,Redefinição de senha,
+modal_password_reset_description,Did you forget your password? No Problem! Just enter a new password to change {{user}},Vous avez oublié votre mot de passe ? Aucun problème ! Saisissez-en un nouveau pour changer {{user}},Hast du dein Passwort vergessen? Kein Problem! Gib einfach ein neues Passwort ein und ändere {{user}},¿Olvidó su contraseña? ¡Ningún problema! Ingrese una nueva contraseña para cambiar {{user}},Esqueceu sua senha? Não tem problema! Digite uma senha nova para alterar {{user}},
+modal_password_reset_placeholder,New Password,Nouveau mot de passe,Neues Passwort,Contraseña nueva,Nova senha,
+modal_auto_renew_title,Auto Renew,Renouvellement automatique,Automatische Verlängerung,Renovación automática,Renovação automática,
+modal_auto_renew_description,"We're sorry to hear that you're leaving. Your child's membership will expire {{date}}, and will no longer have access to premium game content. Are you sure you want to turn auto-renew off?","Nous sommes désolés d'apprendre que vous vous en allez. L'abonnement de votre enfant expirera le {{date}}, comme son accès au contenu premium du jeu. Voulez-vous vraiment désactiver le renouvellement automatique ?","Es tut uns leid, dass Sie gehen. Die Mitgliedschaft Ihres Kindes erlöscht am {{date}}, und Sie werden keinen Zugriff auf Premium-Inhalte im Spiel mehr haben. Wollen Sie wirklich die automatische Verlängerung deaktivieren?",Sentimos que se vaya. La membresía de su hijo expirará el {{date}} y dejará de tener acceso al contenido del juego premium. ¿Seguro que quiere desactivar la renovación automática?,Que pena que você está partindo. A assinatura do seu filho ou filha vai expirar em {{date}} e não será mais possível acessar o conteúdo premium do jogo. Tem certeza que deseja cancelar a renovação automática?,
+modal_chat_title,Chat Settings,Paramètres du tchat,Chat-Einstellungen,Configuración de chat,Configurações de bate-papo,
+modal_chat_description,How would you like {{user}} to chat with other players?,Comment souhaitez-vous que {{user}} communique avec les autres joueurs ?,Wie soll {{user}} mit anderen Spielern chatten?,¿De qué manera le gustaría que {{user}} chatee con otros jugadores?,Como você deseja que {{user}} converse com outros jogadores?,
+modal_chat_safe_description,Your child can type their own messages,Votre enfant peut écrire librement ses messages,Ihr Kind kann eigene Nachrichten tippen.,Su hijo puede escribir sus propios mensajes,Seu filho ou filha pode digitar suas próprias mensagens,
+modal_chat_restricted_description,Type words from a list.,En utilisant les mots d'une liste.,Worte aus einer Liste tippen.,Escriba palabras de la lista.,Digita palavras a partir de uma lista.,
+modal_chat_bubble_description,Select phrases from a list.,En choisissant les phrases depuis une liste.,Sätze aus einer Liste wählen.,Elija frases de una lista.,Escolher frases da lista.,
+modal_language_title,Please select a language,Sélectionnez une langue,Bitte eine Sprache auswählen.,Elija un idioma.,Selecione um idioma,
+tip_gifting,Gifting is the ability to send avatar accessories or den items to another player within a Jam-a-gram (Animal Jam's in game mail system). With gifting disabled your child cannot gift items to other players.,"L'envoi de cadeaux permet aux joueurs de s'envoyer des accessoires ou des décos de tanière en jeu via Jam-A-Gram (la messagerie intégrée d'Animal Jam). Si l'envoi de cadeaux est désactivé, votre enfant ne pourra pas offrir de cadeaux aux autres joueurs.","Schenken ist die Fähigkeit, im Spiel vorhandenes Zubehör oder Höhlengegenstände in einem Jam-A-Gramm (dem Postsystem von Animal Jam) an einen anderen Spieler zu senden. Wenn das Schenken deaktiviert ist, kann Ihr Kind keine Gegenstände an andere Spieler verschenken.","«Regalar» es la capacidad de enviar en el juego accesorios o artículos para la guarida a otro jugador en un jamograma (sistema de mensajería de Animal Jam en el juego). Si esta función está deshabilitada, su hijo no puede regalar artículos a otros jugadores.","O envio de presentes permite o envio de acessórios ou itens de toca no jogo para outro jogador pelo Jamograma (o sistema de correio interno de Animal Jam). Com o envio de presentes desabilitado, seu filho ou filha não pode presentear outros jogadores.",
+tip_trading,Trading is Animal Jam's system where players can trade in-game items with one another. With trading disabled your child cannot trade items with other players.,"L'échange est un système qui permet aux joueurs de troquer entre eux des objets dans Animal Jam. Si l'échange est désactivé, votre enfant ne pourra troquer aucun objet avec les autres joueurs.","Tauschen ist ein System in Animal Jam, durch das Spieler spielinterne Gegenstände miteinander tauschen können. Wenn das Tauschen deaktiviert ist, kann Ihr Kind keine Gegenstände mit anderen Spielern tauschen.","«Intercambiar» es el sistema de Animal Jam a través del cual los jugadores intercambian artículos entre ellos. Si esta función está deshabilitada, su hijo no puede intercambiar artículos con otros jugadores.","No sistema de trocas de Animal Jam, os jogadores podem trocar itens entre si no jogo. Ao desabilitar as trocas, seu filho ou filha não pode trocar itens com outros jogadores.",
+tip_chat,NOTE: All chat messages are filtered by our software to block inappropriate or potentially unsafe language. Our staff continually moderates chat messages to keep Animal Jam as safe as possible.,"Remarque : Tous les messages sont filtrés par notre logiciel, qui bloque tout message inapproprié ou potentiellement dangereux. Notre équipe modère aussi continuellement les messages de tchat pour rendre Animal Jam aussi sûr que possible.","HINWEIS: Alle Chat-Nachrichten werden durch unsere Software gefiltert, um unangemessene oder potenziell riskante Sprache zu blockieren. Unser Personal moderiert dauernd die Chat-Nachrichten, damit Animal Jam so sicher wie möglich bleibt.",NOTA: todos los mensajes están filtrados por nuestro software para bloquear lenguaje inapropiado o potencialmente no seguro. Nuestro equipo controla los mensajes del chat para mantener Animal Jam lo más seguro posible.,OBSERVAÇÃO: todas as mensagens de bate-papo são filtradas pelo nosso software para bloquear expressões impróprias ou potencialmente inseguras. Nossa equipe modera constantemente as mensagens de bate-papo para manter o Animal Jam o mais seguro possível.,
+tip_safe_chat,Safe Chat - Plus Your child can type their own messages,Tchat sécurisé - Plus : votre enfant peut écrire librement ses messages,Sicherer Chat - Plus. Ihr Kind kann eigene Nachrichten tippen.,Chat seguro - Plus: su hijo puede escribir sus propios mensajes,Bate-papo seguro - Plus Seu filho ou filha pode digitar suas próprias mensagens,
+tip_restricted_chat,Safe Chat Your child can Type words from a list,Tchat sécurisé : votre enfant utilise les mots d'une liste,Sicherer Chat. Ihr Kind kann Worte aus einer Liste tippen.,Chat seguro: su hijo puede escribir palabras de una lista,Bate-papo seguro Seu filho ou filha pode escolher palavras em uma lista,
+tip_bubble_chat,Bubble Chat Your child cannot type messages,Tchat à bulles : votre enfant ne peut pas formuler ses propres messages,Sprechblasen-Chat. Ihr Kind kann keine Nachrichten tippen.,Chat con burbujas: su hijo no puede escribir mensajes,Bate-papo de balões Seu filho ou filha não pode digitar mensagens,
+chat_option_hello,Hello,Bonjour,Hallo,Hola,Olá,
+discipline_modal_title,Discipline,Sanction,Strafen,Disciplina,Disciplina,
+discipline_modal_description,If you have any questions about these disciplines or our policies,Si vous avez des questions sur ces sanctions ou nos règlements,Wenn Sie Fragen zu diesen Strafen oder unseren Richtlinien haben,"Si tiene alguna pregunta acerca de estas disciplinas o de nuestras políticas, puede",Se tiver qualquer dúvida sobre tais ações disciplinares ou sobre nossas políticas,
+contact_us,contact us,nous contacter,kontakt,contactarnos,contato,
+discipline_table_date,Date,Date,Datum,Fecha,Data,
+discipline_table_account,Account,Compte,Konto,Cuenta,Conta,
+discipline_table_offense,Reason,Raison,Grund,Motivo,Motivo,
+discipline_table_action,Action,Action,Aktion,Acción,Ação,
+discipline_table_term,Term,Termes,Dauer,Término,Termo,
+discipline_table_mean,Mean Behavior,Mauvais comportement,Gemeines Verhalten,Mal comportamiento,Comportamento agressivo,
+discipline_table_ban,Account Ban,Suspension de compte,Kontosperre,Inhabilitación de la cuenta,Conta banida,
+discipline_table_indefinite,indefinite,indéfini,unbegrenzt,indefinido,indeterminado,
+discipline_table_language,Inappropriate Language,Langage inapproprié,Unangemessene Ausdrucksweise,Lenguaje inapropiado,Linguagem Inadequada,
+discipline_table_suspended,Suspended,Suspendu,Gesperrt,Suspendido,Suspenso,
+discipline_table_day,Day,Jour,Tag,Día,Dia,
+discipline_table_days,Days,Jours,Tage,Días,Dias,
+login_modal_title,Login History,Historique de connexion,Anmeldungsverlauf,Historial de inicio de sesión,Histórico de sessão,
+,Months,mois,Monate,meses,mês,
+alert_success,Success,Réussite,Erfolg,Éxito,Sucesso,Успешно
+alert_error,Error,Erreur,Fehler,Error,Erro,Ошибка
+,Parent Tools,Outils parentaux,Kontrollen für Eltern,Herramientas parentales,Ferramentas dos Pais,Родительский Кабинет
+,Parent Profile,Profil parental,Elternprofil,Perfil de los padres,Perfil dos Pais,Родительский Профиль
+alert_no_login_history,No Discipline History Found,Aucun historique des sanctions trouvé,Kein Strafenverlauf gefunden,Sin historial disciplinario,Nenhum histórico disciplinar encontrado,Нет истории нарушений
+alert_no_login_history,No Login History Found,Aucun historique de connexion trouvé,Keine Anmeldeverlauf gefunden,Sin historial de inicio de sesión,Nenhum histórico de sessão encontrado,Нет истории входа
+alert_no_login_history,No Login History Found,Aucun historique de connexion trouvé,Keine Anmeldeverlauf gefunden,Sin historial de inicio de sesión,Nenhum histórico de sessão encontrado,Нет истории входа
+alert_no_login_history,No Billing History Found,Aucun historique de facturation trouvé,Kein Rechnungsverlauf gefunden,Sin historial de facturación,Nenhum histórico de cobrança encontrado,Нет истории покупок
+table_game,Game,Partie,Spiel,Juego,Jogo,Игра
+table_descrition,Description,Description,Beschreibung,Descripción,Descrição,Описание
+table_type,Type,Classe,Tippen:,Escritura,Digitado,Тип
+billing_history_title,Billing History for {{user}},Historique de facturation de {{user}},Rechnungsverlauf für {{user}},Historial de facturación de {{user}},Histórico de cobrança de {{user}},История покупок {{user}}
+login_history_title,Login History for {{user}},Historique de connexion de {{user}},Anmeldeverlauf für {{user}},Historial de inicio de sesión de {{user}},Histórico de sessão de {{user}},История входа в игру {{user}}
+discipline_history_title,Discipline for {{user}},Sanctions de {{user}},Strafe für {{user}},Historial disciplinario de {{user}},Ações disciplinares de {{user}},История наказаний {{user}}
+discipline_history_disclaime,"If you have any questions about these disciplines or our policies, feel free to contact us.","Si vous avez des questions sur ces sanctions ou nos règlements, n'hésitez pas à nous contacter.","Wenn Sie Fragen zu diesen Strafen oder unseren Richtlinien haben, können Sie sich gerne an uns wenden.","Si tiene alguna pregunta acerca de estas acciones disciplinarias o de nuestras políticas, no dude en contactarnos.","Se tiver qualquer dúvida sobre tais ações disciplinares ou sobre nossas políticas, esteja à vontade para falar conosco.","Пожалуйста, свяжитесь с нами, если у вас есть вопросы об этих нарушениях или о наших правилах"
+login,Login,Connecter,Anmelden,Iniciar sesión,Iniciar sessão,Вход
+logout,Logout,Déconnecter,Abmelden,Cerrar sesión,Sair,Выход
+email_subscription,Email Subscription,Abonnement aux emails,E-Mail-Abonnement,Subscripción de correo electrónico,Assinatura por e-mail,Email Подписка
+your_password,Your Password,Votre mot de passe,Ihr Passwort,Su contraseña,Sua senha,Ваш Пароль
+back_to_accounts,Back To Player Accounts,Retour aux comptes joueur,Zurück zu Spielerkonten,Volver a Cuentas del jugador,Voltar às contas de jogador,Вернуться к Учётным Записям Игроков
+reset_your_password,Reset Your Password,Réinitialiser votre mot de passe,Dein Passwort zurücksetzen,Restablecer tu contraseña,Mudar a senha,Сбросить Пароль
+reset_password_description,Need to change your password? No problem! Just enter a new password to change your password.,Tu veux changer ton mot de passe ? Aucun problème ! Il te suffit d'en saisir un nouveau pour le changer.,"Sie möchten Ihr Passwort ändern? Kein Problem! Geben Sie einfach ein neues Passwort ein, um Ihr Passwort zu ändern.",¿Desea cambiar su contraseña? ¡No hay problema! Ingrese una nueva contraseña para cambiar la actual.,Precisa alterar sua senha? Não tem problema! Basta digitar uma senha nova para alterar sua senha atual.,Нужно сменить пароль? Нет проблем! Просто введите новый пароль чтобы сменить его.
+questions,Got a question?,Des questions ?,Sie haben eine Frage?,¿Tiene alguna pregunta?,Está com dúvidas?,Есть вопрос?
+help_desk,Visit our help desk,Visitez notre bureau d'aide,Besuchen Sie unseren Helpdesk,Vaya a nuestro servicio de ayuda,Visite a nossa seção de ajuda,Посетите нашу поддержку
+more_gems,Need More Gems?,Besoin de gemmes ?,Brauchst du mehr Edelsteine?,¿Necesitas más gemas?,Precisa de mais joias?,Нужно Больше Самоцветов?
+aj_outfitters,Check out AJ Outfitters,Rendez-vous dans la Boutique AJ,Sehen Sie sich AJ-Outfitter an,Vaya a la Tienda AJ,Confira as Lojas de Roupas do AJ,Посетите магазин AJ
+online_safety,Online Safety,Sécurité en ligne,Online-Sicherheit,Seguridad en línea,Segurança Online,Онлайн Безопасность
+learn_more,Learn more,En savoir plus,Mehr erfahren,Para conocer más,Saiba mais,Узнать больше
+password_reset_title,Password Reset for {{user}},Réinitialiser le mot de passe pour {{user}},Passwort zurücksetzen für {{user}},Restablecer contraseña de {{user}},Redefinição de senha de {{user}},Сброс пароля игрока {{user}}
+auto_renew_title,Auto Renew for {{user}},Renouvellement automatique pour {{user}},Automatische Verlängerung für {{user}},Renovación automática de {{user}},Renovação automática de {{user}},Автопродление подписки игрока {{user}}
+auto_renew_description,Turn auto renew on to renew {{user}}'s membership on {{date}} for {{price}},Activez le renouvellement automatique pour renouveler l'abonnement de {{user}} le {{date}} pour {{price}},"Aktivieren Sie die automatische Verlängerung, um die Mitgliedschaft von {{user}} am {{date}} für {{price}} zu verlängern",Activa la renovación automática de la membresía de {{user}} el {{date}} por {{price}},Ative a renovação automática para renovar a assinatura de {{user}}em {{date}} por {{price}},"Включите автоматическое продление, чтобы продлить подписку игрока {{user}} с {{date}} за {{price}}"
+expires,Expires on {{date}},Expire le {{date}},Endet am {{date}},Expira el {{date}},Vence em {{date}},Истекает {{date}}
+join,Join Now!,Rejoindre maintenant !,Werde jetzt Mitglied!,¡Unirse ahora!,Participe agora!,Присоединиться Сейчас!
