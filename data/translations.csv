@@ -1,5 +1,5 @@
 string,en,fr,de,es,pt,ru
-app_title,Parent Account,Compte parental,Elternkonto,Cuenta del Padre,Conta dos Pais,
+parent_account,Parent Account,Compte parental,Elternkonto,Cuenta del Padre,Conta dos Pais,
 btn_submit,Submit,Envoyer,Abschicken,Enviar,Enviar,
 btn_history_discipline,Discipline History,Historique des sanctions,Strafverlauf,Historial disciplinario,Histórico de disciplina,
 btn_history_login,Login History,Historique de connexion,Anmeldungsverlauf,Historial de inicio de sesión,Histórico de sessão,
@@ -57,11 +57,11 @@ discipline_table_suspended,Suspended,Suspendu,Gesperrt,Suspendido,Suspenso,
 discipline_table_day,Day,Jour,Tag,Día,Dia,
 discipline_table_days,Days,Jours,Tage,Días,Dias,
 login_modal_title,Login History,Historique de connexion,Anmeldungsverlauf,Historial de inicio de sesión,Histórico de sessão,
-,Months,mois,Monate,meses,mês,
+table_months,Months,mois,Monate,meses,mês,
 alert_success,Success,Réussite,Erfolg,Éxito,Sucesso,Успешно
 alert_error,Error,Erreur,Fehler,Error,Erro,Ошибка
-,Parent Tools,Outils parentaux,Kontrollen für Eltern,Herramientas parentales,Ferramentas dos Pais,Родительский Кабинет
-,Parent Profile,Profil parental,Elternprofil,Perfil de los padres,Perfil dos Pais,Родительский Профиль
+app_title,Parent Tools,Outils parentaux,Kontrollen für Eltern,Herramientas parentales,Ferramentas dos Pais,Родительский Кабинет
+parent_profile,Parent Profile,Profil parental,Elternprofil,Perfil de los padres,Perfil dos Pais,Родительский Профиль
 alert_no_login_history,No Discipline History Found,Aucun historique des sanctions trouvé,Kein Strafenverlauf gefunden,Sin historial disciplinario,Nenhum histórico disciplinar encontrado,Нет истории нарушений
 alert_no_login_history,No Login History Found,Aucun historique de connexion trouvé,Keine Anmeldeverlauf gefunden,Sin historial de inicio de sesión,Nenhum histórico de sessão encontrado,Нет истории входа
 alert_no_login_history,No Login History Found,Aucun historique de connexion trouvé,Keine Anmeldeverlauf gefunden,Sin historial de inicio de sesión,Nenhum histórico de sessão encontrado,Нет истории входа
